@@ -1,0 +1,16 @@
+D:\SytemCleaner\bin\Debug\net8.0-windows\SytemCleaner.exe
+D:\SytemCleaner\bin\Debug\net8.0-windows\SytemCleaner.deps.json
+D:\SytemCleaner\bin\Debug\net8.0-windows\SytemCleaner.runtimeconfig.json
+D:\SytemCleaner\bin\Debug\net8.0-windows\SytemCleaner.dll
+D:\SytemCleaner\bin\Debug\net8.0-windows\SytemCleaner.pdb
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.Form1.resources
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.csproj.GenerateResource.cache
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.GeneratedMSBuildEditorConfig.editorconfig
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.AssemblyInfoInputs.cache
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.AssemblyInfo.cs
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.csproj.CoreCompileInputs.cache
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.dll
+D:\SytemCleaner\obj\Debug\net8.0-windows\refint\SytemCleaner.dll
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.pdb
+D:\SytemCleaner\obj\Debug\net8.0-windows\SytemCleaner.genruntimeconfig.cache
+D:\SytemCleaner\obj\Debug\net8.0-windows\ref\SytemCleaner.dll
